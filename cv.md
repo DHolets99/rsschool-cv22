@@ -22,6 +22,23 @@
 
 ---
 
+### Pet project
+#### Github_User_Search
+
+Your users should be able to:
+
+* View the optimal layout for the app depending on their device's screen size
+* See hover states for all interactive elements on the page
+* Search for GitHub users by their username
+* See relevant user information based on their search
+* Switch between light and dark themes
+* Have the correct color scheme chosen for them based on their computer preferences. Hint: Research prefers-color-scheme in CSS.
+
+##### Preview site: [Github_User_Search](https://dholets99.github.io/Github_User_Search/)
+##### View Code: [Github_User_Search](https://github.com/DHolets99/Github_User_Search)
+
+---
+
 ### Code example
 Digital root is the recursive sum of all the digits in a number.
 Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
